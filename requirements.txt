@@ -1,0 +1,16 @@
+ibm-watsonx-ai>=1.1.2
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-ibm>=0.1.7
+faiss-cpu>=1.7.4
+sentence-transformers>=2.7.0
+requests>=2.31.0
+Pillow>=10.0.0
+python-dotenv>=1.0.0
+numpy>=1.26.0
+pandas>=2.1.0
+streamlit>=1.32.0
+streamlit-chat>=0.1.1
+plotly>=5.18.0
+python-multipart>=0.0.9
+httpx>=0.27.0
